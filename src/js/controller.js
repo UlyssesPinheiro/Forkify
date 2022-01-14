@@ -130,3 +130,8 @@ async function controlAddRecipe(newRecipe) {
     addRecipeView.renderError(error.message);
   }
 }
+
+function newFeature() {
+  console.log('welcome to the application!');
+}
+newFeature();
