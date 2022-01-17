@@ -9,6 +9,7 @@
   "author": "Ulysses Pinheiro",
   "license": "ISC",
   "dependencies": {
+    "@parcel/transformer-sass": "^2.2.0",
     "core-js": "^3.20.0",
     "fracty": "^1.0.9",
     "parcel": "^2.2.0",
